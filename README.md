@@ -18,7 +18,18 @@ a. Laser measurement
 b. Weight scales
 c. ...
 
+
+### Weight detection
+
+1. Arduino board
+2. Light
+3. Touch sensor: https://store.arduino.cc/en-de/collections/environment-monitoring/products/grove-touch-sensor
+4. Battery/power?
+
+
 ## Budget
+
+
 
 
 
